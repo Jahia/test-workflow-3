@@ -1,5 +1,5 @@
 name: Full CI Workflow
-  
+
 env:
   PARENT_IMAGE_TAG: "none"
   TARGET_BRANCH: ""
